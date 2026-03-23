@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# os
+Thumbs.db
+
+# copilot / agent
+CLAUDE.md
+AGENTS.md
+.github/copilot-instructions.md
