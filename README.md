@@ -4,7 +4,7 @@ A privacy-first web tool for decoding and inspecting SAML 2.0 responses from HAR
 
 ## Demo
 
-https://github.com/user-attachments/assets/Recording%202026-03-23%20203715.mp4
+[Watch the video here](https://github.com/JoshWilliams92/Next_SAML_HAR_Decoder/releases/download/v1.0.0/SAML.Decoder.with.HAR.file.mp4)
 
 ## Features
 
